@@ -1,0 +1,2 @@
+tweepy==3.6.0
+editdistance==0.4
