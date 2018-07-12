@@ -1,6 +1,5 @@
 import tweepy
 from credentials import *
-import json
 import editdistance
 import time
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
