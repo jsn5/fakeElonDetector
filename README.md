@@ -3,6 +3,7 @@ fakeElonDetector
 ------------------
 Twitter bot to detect and report fake Elon Musk accounts
 
+![screenshot](https://github.com/jsn5/fakeElonDetector/blob/master/screen.jpeg?raw=true)
 
 ## Requirements
 
